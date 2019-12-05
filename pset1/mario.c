@@ -9,6 +9,15 @@
  * 
  *     Recreation of the pyramids in Nintendo's Super Mario Brothers in text.
  *     Hashes will be used to replace bricks.
+ *     Restrictions.
+ *          1. The height must be between, 1 and 8, inclusive
+ *          2. There should not be any spaces to the right of the pyramid
+ *          3. The "gap" between adjacent pyramids is equal to the width of two hashes.
+ *     Example of a 4 height pyramid:
+ *             #  #
+ *            ##  ##
+ *           ###  ###
+ *          ####  ####
  * 
  * Resources
  *     https://cs50.readthedocs.io/library/c/
@@ -19,13 +28,14 @@
 int main(void)
 {
     /* Initialization */
-    int height = 0;
+    int height;
     
     /* Making sure Height must be between, 1 and 8, inclusive. */
-    while (height < 1 || height > 8)
+    do
     {
         height = get_int("Height: ");
     }
+    while (height < 1 || height > 8);
     
     /* Prints out the pyramid */
     for (int i = height - 1; i >= 0; i--)
@@ -52,10 +62,6 @@ int main(void)
             if (k >= i)
             {
                 printf("#");
-            }
-            else
-            {
-                printf(" ");
             }
         }
         printf("\n");

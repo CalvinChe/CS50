@@ -1,6 +1,6 @@
 # CS50: Introduction to Computer Science
 
-My Solutions to the problem sets and projects for CS50: Introduction to Computer Science course.
+My solutions to the problem sets and projects for CS50: Introduction to Computer Science course.
 
 Course link: [link](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 

@@ -12,7 +12,7 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
   * [vigenere](https://github.com/CalvinChe/CS50/blob/master/pset2/vigenere.c)
   * [crack](https://github.com/CalvinChe/CS50/blob/master/pset2/crack.c)
 * [Problem Set 3: Memory](https://github.com/CalvinChe/CS50/tree/master/pset3)
-  * [whodunit.c](https://github.com/CalvinChe/CS50/blob/master/pset3/whodunit/whodunit.c)
+  * [whodunit.c](https://github.com/CalvinChe/CS50/blob/master/pset3/whodunit)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)

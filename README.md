@@ -13,6 +13,7 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
   * [crack](https://github.com/CalvinChe/CS50/blob/master/pset2/crack.c)
 * [Problem Set 3: Memory](https://github.com/CalvinChe/CS50/tree/master/pset3)
   * [whodunit](https://github.com/CalvinChe/CS50/blob/master/pset3/whodunit)
+  * [resize](https://github.com/CalvinChe/CS50/blob/master/pset3/resize)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)

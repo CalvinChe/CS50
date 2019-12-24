@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
 
     // init storage
     unsigned char buffer[512];
-    char *newFile = malloc(3 * sizeof(int) + 4 * sizeof(char));
+    char *newFile = malloc(3 * sizeof(int) + 4 * sizeof(char) + 1);
     FILE *img;
     int count = 0;
     bool found = false;

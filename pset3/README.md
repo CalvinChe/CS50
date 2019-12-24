@@ -8,4 +8,3 @@
     * A program called reocver that recovers JPEGs from a forensic image.
 ## Resources
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
-* [cs50.h](https://cs50.readthedocs.io/library/c/)

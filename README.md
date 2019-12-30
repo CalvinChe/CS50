@@ -16,7 +16,7 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
   * [resize](https://github.com/CalvinChe/CS50/blob/master/pset3/resize)
   * [recover](https://github.com/CalvinChe/CS50/blob/master/pset3/recover.c)
 * [Problem Set 4: Data Structures](https://github.com/CalvinChe/CS50/tree/master/pset4)
- * [spellerHashTable](https://github.com/CalvinChe/CS50/blob/master/pset4/spellerHashTable)
+  * [spellerHashTable](https://github.com/CalvinChe/CS50/blob/master/pset4/spellerHashTable)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)

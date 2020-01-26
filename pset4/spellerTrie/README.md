@@ -1,6 +1,6 @@
 # [Speller](https://github.com/CalvinChe/CS50/blob/master/pset4/spellerTrie/dictionary.c)
 
-A program that spell-checks a file using a hash table.
+A program that spell-checks a file using a trie.
 
 ## Usage
 ```bash
@@ -27,7 +27,7 @@ TIME IN TOTAL:        0.00
 ```
 
 ## Specification
-1. Implement `load`, `size`, `check`, and `unload` as efficiently as possible using a hash table in such a way that `TIME IN load`, `TIME IN check`, `TIME IN size`, and `TIME IN unload` are all minimized.
+1. Implement `load`, `size`, `check`, and `unload` as efficiently as possible using a trie in such a way that `TIME IN load`, `TIME IN check`, `TIME IN size`, and `TIME IN unload` are all minimized.
 2. I may not alter `speller.c` or `Makefile`
 3. `check` must be case-insensitive
 4. `check` should only return true for words actually in `dictionary`

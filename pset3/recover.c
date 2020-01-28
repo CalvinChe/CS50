@@ -7,7 +7,7 @@
  *
  * Summary of File:
  *
- *     A program called reocver that recovers JPEGs from a forensic image.
+ *     A program called recover that recovers JPEGs from a forensic image.
  *
  * Specification
  *     1. The program should accept exactly 1 command-line arguments

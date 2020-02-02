@@ -83,7 +83,7 @@ int main(void)
         int second = ccNumCpy % 10;
         int first = ccNumCpy / 10 % 10;
         
-        /* Determine the comapany using the first digit */
+        /* Determine the company using the first digit */
         switch (first)
         {
             /* Check length and second number validity*/

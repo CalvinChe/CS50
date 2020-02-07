@@ -25,6 +25,7 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
   * [mario](https://github.com/CalvinChe/CS50/blob/master/pset6/mario.py)
   * [credit](https://github.com/CalvinChe/CS50/blob/master/pset6/credit.py)
   * [readability](https://github.com/CalvinChe/CS50/blob/master/pset6/readability.py)
+  * [dna](https://github.com/CalvinChe/CS50/blob/master/pset6/dna/dna.py)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)

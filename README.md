@@ -26,6 +26,8 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
   * [credit](https://github.com/CalvinChe/CS50/blob/master/pset6/credit.py)
   * [readability](https://github.com/CalvinChe/CS50/blob/master/pset6/readability.py)
   * [dna](https://github.com/CalvinChe/CS50/blob/master/pset6/dna/dna.py)
+* [Problem Set 7: SQL](https://github.com/CalvinChe/CS50/tree/master/pset7)
+  * [movies](https://github.com/CalvinChe/CS50/blob/master/pset7/movies)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)

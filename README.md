@@ -29,6 +29,8 @@ My solutions to the problem sets and projects for CS50: Introduction to Computer
 * [Problem Set 7: SQL](https://github.com/CalvinChe/CS50/tree/master/pset7)
   * [movies](https://github.com/CalvinChe/CS50/blob/master/pset7/movies)
   * [houses](https://github.com/CalvinChe/CS50/blob/master/pset7/houses)
+* [Tracks]
+  * [Games: Lua](https://github.com/CalvinChe/CS50/blob/master/GameTrack)
 ## Resources
 * [Style Guide for C](https://cs50.readthedocs.io/style/c/)
 * [cs50.h](https://cs50.readthedocs.io/library/c/)
